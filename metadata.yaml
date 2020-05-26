@@ -1,0 +1,26 @@
+_repo: Cannibal-land-Adventures-with-a-camera-in-the-New-Hebrides_62138
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Johnson, Martin
+    alias: Johnson, Martin Elmer
+    birthdate: 1884
+    deathdate: 1937
+    gutenberg_agent_id: '42421'
+    url: http://www.gutenberg.org/2009/agents/42421
+description: With illustrations from the author's photographs.
+gutenberg_issued: '2020-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62138'
+  lccn: '22013553'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vanuatu -- Description and travel'
+- !lcc 'DU'
+- GITenberg
+title: 'Cannibal-land: Adventures with a camera in the New Hebrides'
+url: http://www.gutenberg.org/ebooks/62138
